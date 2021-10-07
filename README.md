@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaksGord1
+- 👋 Hi, I’m @MaksGord
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Institute of Enterprise and Advanced Technologies
 - 💞️ I’m looking to collaborate on ...
